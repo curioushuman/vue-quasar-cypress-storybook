@@ -181,7 +181,7 @@ Webpack is configured to lint upon build, although it is recommended to run lint
 
 ### Quasar
 
-Quasar has [excellent docs](https://quasar.dev/), and a [huge library of components](https://quasar.dev/vue-components). Please use these AT ALL TIMES. If something doesn't exist, or is very different to the designs please LET ME KNOW rather than install something else.
+Quasar has [excellent docs](https://quasar.dev/), and a [huge library of components](https://quasar.dev/vue-components).
 
 ### Typescript
 
