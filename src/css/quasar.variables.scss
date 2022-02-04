@@ -1,0 +1,63 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// COLOURS
+// NOTE: these have been set from our palettes
+
+$primary: #065143;
+$secondary: #e9efed;
+$accent: #aa1155;
+
+$positive: #5cb53a;
+$negative: #db162f;
+$info: #20a4f3;
+$warning: #ff8552;
+
+// DARK MODE
+// Designs yet to be defined for this
+
+// TYPOGRAPHY
+// Sticking with defaults
+$typography-font-family: 'Roboto', '-apple-system', 'Helvetica Neue', Helvetica,
+  Arial, sans-serif !default;
+
+// UI ASPECTS
+// Border upped from 4 to 6px
+$generic-border-radius: 6px !default;
+
+// BUTTONS
+// Please review as we build the prototype
+// $button-border-radius: 3px !default;
+// $button-padding: 4px 16px !default;
+// $button-dense-padding: 0.285em !default;
+// $button-transition: $generic-hover-transition !default;
+// $button-font-size: 14px !default;
+// $button-line-height: 1.715em !default;
+// $button-font-weight: 500 !default;
+// $button-shadow: $shadow-2 !default;
+// $button-shadow-active: $shadow-5 !default;
+// $button-rounded-border-radius: 28px !default;
+// $button-push-border-radius: 7px !default;
+
+// FORMS
+// Please review as we build the prototype
+$input-font-size: 14px !default;
+$input-text-color: rgba(0, 0, 0, 0.87) !default;
+$input-label-color: rgba(0, 0, 0, 0.6) !default;
+$input-autofill-color: inherit !default;
+
+// SPACE
+// Quasar space-base of 16px aligns with our designs
+
+// BREAKPOINTS
+// Please review as we build the prototype
+
+// FLEX
+// Please review as we build the prototype
